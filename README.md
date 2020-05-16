@@ -1,6 +1,7 @@
 # Test Drive Camunda Cloud from GitHub
 
-[![Actions Panel](https://img.shields.io/badge/actionspanel-enabled-brightgreen)](https://www.actionspanel.app/app/jwulf/camunda-cloud-starter)
+[![Actions Panel](https://img.shields.io/badge/actionspanel-enabled-brightgreen)](https://www.actionspanel.app/app/simonletort/camunda-cloud-test-drive)
+
 
 Test drive [Camunda Cloud](https://camunda.io) in 30 minutes using just a fork of this repo.
 
